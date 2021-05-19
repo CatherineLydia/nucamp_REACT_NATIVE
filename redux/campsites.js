@@ -16,4 +16,4 @@ export const campsites = (state = { isLoading: true,
         default:
             return state;
       }
-};
+}; 
